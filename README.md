@@ -30,16 +30,9 @@ This project was created to practice front-end web development fundamentals and 
 ├── contact.html
 ├── style.css
 
-## Future Improvements
-
-- Add Projects section
-- Add Skills section
-- Add Resume download option
-- Improve responsiveness
-- Add JavaScript interactivity
 
 ## Author
 
 Mukesh Mannai
 
-GitHub: https://github.com/mukeshmannai14
+Live link: https://mukeshmannai14.github.io/My-portfolio-website/
